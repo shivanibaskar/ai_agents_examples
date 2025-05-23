@@ -182,6 +182,5 @@ You’ve built an agent that:
 - Uses tools to find facts
 - Combines human-level reasoning with machine-level search
 
-This is a key pattern for modern AI systems — and you now understand how it works **from the ground up**.
 
 
